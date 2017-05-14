@@ -4,10 +4,7 @@
 
 ```
 > git clone 
-
 > cd <filename>
-
 > npm install
-
 > npm start
 ```
