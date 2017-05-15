@@ -7,7 +7,7 @@
 - React JS - functional stateless component
 - React JS - Class based component
 
-> bundler => webpack, es6 => babel compiler
+- bundler => webpack, es6 => babel compiler
 
 ### Getting Started
 
