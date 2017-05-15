@@ -3,7 +3,7 @@
 ### Getting Started
 
 ```
-> git clone
+> git clone https://github.com/guruganeshm/react-js-sample.git
 > cd <filename>
 > npm install
 > npm start
