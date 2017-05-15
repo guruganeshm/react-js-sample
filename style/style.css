@@ -127,6 +127,7 @@ main>.mdl-layout__tab-panel {
   right: 40px;
   top: 36px;
   z-index: 999;
+  display: none;
 }
 
 .mdl-layout__content section:not(:last-of-type) {
@@ -292,6 +293,7 @@ section.section--center .section__text:not(:last-child) {
 
 button#btn1, button#btn3, button#btn2 {
   position: absolute;
+  display: none;
 }
 
 .mdl-layout__content {

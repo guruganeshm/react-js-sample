@@ -16,6 +16,7 @@ class Faq extends React.Component {
           <section className="section--center mdl-grid mdl-grid--no-spacing">
             <div className="mdl-cell mdl-cell--12-col">
               <h4> Hello from Faq section!</h4>
+              <p><i>Questions and Answers are populated from array of objects</i></p>
               <ol>{quesAsked}</ol>
             </div>
           </section>
