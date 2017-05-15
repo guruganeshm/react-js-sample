@@ -20,11 +20,6 @@ export default class appBody extends Component {
           <Route path="/technology" component={Technology} />
           <Route path="/faq" component={Faq} />
         </switch>
-        <Route path="/overview" component={Overview} />
-        <Route path="/features" component={Features} />
-        <Route path="/details" component={Details} />
-        <Route path="/technology" component={Technology} />
-        <Route path="/faq" component={Faq} />
       </div>
     );
   }
