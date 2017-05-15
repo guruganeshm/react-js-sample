@@ -1,6 +1,6 @@
 # React Js Sample Project
 
-- uses react-router 4.0
+- Uses "react-router": "^4.0.0"
 - React JS - state and props
 - React JS - conditional rendering
 - React JS - controlled component - used input
