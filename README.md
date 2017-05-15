@@ -3,8 +3,11 @@
 ### Getting Started
 
 ```
-> git clone 
+> git clone
 > cd <filename>
 > npm install
 > npm start
 ```
+# Live Demo of this repository
+
+https://rjxwebproject.herokuapp.com/
