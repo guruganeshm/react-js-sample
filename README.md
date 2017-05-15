@@ -10,4 +10,4 @@
 ```
 # Live Demo of this repository
 
-https://rjxwebproject.herokuapp.com/
+<a href="https://rjxwebproject.herokuapp.com/" target="_blank">https://rjxwebproject.herokuapp.com/</a>
