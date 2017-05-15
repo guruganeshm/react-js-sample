@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter, browserHistory  } from 'react-router-dom';
 import Header from './header';
 import Footer from './footer';
 import Overview from './overview';
@@ -9,7 +9,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router>
+        <BrowserRouter history={browserHistory}>
           <div>
             <Header />
             <main className="mdl-layout__content">
@@ -17,7 +17,7 @@ export default class App extends Component {
               <Footer />
             </main>
           </div>
-        </Router>
+        </BrowserRouter>
       </div>
     );
   }
